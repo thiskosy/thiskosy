@@ -21,11 +21,11 @@ investment evaluation** ahead of graduation.
 
 ## Featured Projects
 
-- 🏦 **[Retail Banking Customer Segmentation](link)** — Logistic regression 
+-  **[Retail Banking Customer Segmentation](link)** — Logistic regression 
   model identifying customer churn risk
-- 📊 **[Credit Risk Prediction Model](link)** — 84% accuracy, ROC-AUC ~0.85, 
+- **[Credit Risk Prediction Model](link)** — 84% accuracy, ROC-AUC ~0.85, 
   threshold-optimized default prediction
-- 💼 **[MapleCredit Investment Memo](link)** — VC-style due diligence on a 
+- **[MapleCredit Investment Memo](link)** — VC-style due diligence on a 
   fictional fintech lending startup, combining EDA, modeling, and investment 
   analysis(in progress)
 
@@ -35,6 +35,6 @@ investment evaluation** ahead of graduation.
 
 ## Let's Connect
 
-📫 [LinkedIn](www.linkedin.com/in/kosy04) | 📧 kosinweke.e@gmail.com
+[LinkedIn](www.linkedin.com/in/kosy04) | kosinweke.e@gmail.com
 
 Always open to connecting with people in fintech, data, and venture capital.
