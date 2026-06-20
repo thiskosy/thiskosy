@@ -27,15 +27,14 @@ investment evaluation** ahead of graduation.
   threshold-optimized default prediction
 - 💼 **[MapleCredit Investment Memo](link)** — VC-style due diligence on a 
   fictional fintech lending startup, combining EDA, modeling, and investment 
-  analysis
+  analysis(in progress)
 
 ## Certifications
 
 - Bloomberg Finance Fundamentals
-- Bloomberg Market Concepts (BMC)
 
 ## Let's Connect
 
-📫 [LinkedIn](your-link) | 📧 kosinweke.e@gmail.com
+📫 [LinkedIn](www.linkedin.com/in/kosy04) | 📧 kosinweke.e@gmail.com
 
 Always open to connecting with people in fintech, data, and venture capital.
