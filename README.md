@@ -1,4 +1,4 @@
-# Hi, I'm Kosy 👋
+# Hi, I'm Kosy
 
 **Data Science (Business) | York University & Schulich School of Business**
 Graduating 2027 | Breaking into Fintech & Venture Capital
